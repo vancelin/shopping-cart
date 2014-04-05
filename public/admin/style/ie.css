@@ -1,0 +1,29 @@
+.focus-stretch ,
+.focus-strech:focus {
+	margin-left: 20px!important;
+	width: 120px !important;
+}
+.focus-strech-container .search-text ,
+.focus-strech-container .search-text:focus {
+	width: 120px !important;
+}
+
+
+#log form {
+    background-position: 0 0 !important;
+}
+#log .wrap {
+    background-position: 0 -550px !important;
+}
+#log .block {
+    background-position: 0 -550px !important;
+}
+#log .wrap label {
+    background-position:0 -270px !important;
+}
+#log .block label {
+    background-position:0 -270px !important;
+}
+#log button.login-button {
+    background-position: 0 -350px !important;
+}
