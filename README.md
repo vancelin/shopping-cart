@@ -1,4 +1,4 @@
-# shopping-cart
+# Any category shopping cart
 
 codeigniter version 2.1.3,PHP 5.4 up
 
